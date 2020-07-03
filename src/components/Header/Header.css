@@ -1,0 +1,61 @@
+.logo {
+    margin-left: 90px;
+}
+
+.social_icon {
+    margin-left: 576px;
+}
+
+.social_icon img {
+    margin-left: 16px;
+}
+
+.phoneNumber {
+    font-family: Raleway-Regular, AdobeInvisFont, MyriadPro-Regular;
+    color: #17498a;
+    font-size: 14px;
+    margin-left: 18px;
+    margin-right: 42px;
+}
+
+.phoneNumber p {
+    font-family: Arial-BoldMT, Arial-BoldMT, AdobeInvisFont, MyriadPro-Regular;
+    color: #159CD2;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.search {
+    border-radius: 20px;
+    background-image: url('../../assets/img/search_icon.png');
+    background-repeat: no-repeat;
+    background-position: 156px 11px;
+    width: 201px;
+    height: 48px;
+    border-color: #084184;
+    border-width: 1px;
+}
+
+
+
+.regbtn {
+    border: none;
+    background-image: url('../../assets/img/register.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 201px;
+    height: 48px;
+    margin-left: 44px;
+    outline: none;
+}
+
+
+.loginBtn {
+    border: none;
+    font-family: Raleway-Regular, AdobeInvisFont, MyriadPro-Regular;
+    height: 16px;
+    width: 55px;
+    margin-left: 47px;
+}

@@ -1,0 +1,42 @@
+.wdt {
+    width: 1921px !important;
+}
+
+.img {
+    width: 100%;
+    object-fit: cover;
+    height: 783px !important;
+}
+
+
+ul.slick-dots {
+    transform: rotate(90deg);
+    position: absolute;
+    width: 20%;
+    top: 200px;
+    right: 100px;
+    bottom: 30%;
+    margin-left: 15px;
+}
+
+.slick-dots li {
+    width: 420px;
+    border-radius: 50%;
+}
+
+ul.slick-dots button {
+    opacity: 0;
+}
+
+
+li {
+    background-image: url('../../../assets/img/dots.png');
+    background-repeat: no-repeat;
+    opacity: 0.6;
+}
+
+.slick-active {
+    background-image: url('../../../assets/img/dots_active.png');
+    background-repeat: no-repeat;
+    opacity: 1;
+}
